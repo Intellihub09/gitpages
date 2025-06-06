@@ -1,0 +1,16 @@
+# Site settings
+title: Intellihub's Projects & Tools
+author: Teja Thota
+description: Showcasing AI-powered apps, productivity tools, and no-code experiments built with Trae AI, Cursor, and Supabase.
+
+# Theme settings
+theme: minima
+
+# Social links (optional)
+github_username: teja-thota  # Replace with your actual username
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
